@@ -1,3 +1,4 @@
+console.log("Task-5");
 const checkForSpam = function (message) {
   message = message.toLowerCase();
   console.log("Строка: ",message);

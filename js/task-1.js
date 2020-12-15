@@ -1,3 +1,4 @@
+console.log("Task-1");
 const logItems = ['Mango', 'Poly', 'Ajax', 'Lux', 'Jay', 'Kong'];
 const numItems = [5, 10, 15, 20, 25, 30, 35, 40, 45, 50];
 

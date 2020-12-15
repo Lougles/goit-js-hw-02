@@ -1,3 +1,4 @@
+console.log("Task-2");
 const calculateEngravingPrice = function (message, pricePerWord) {
   console.log("Текст: ",message);
   console.log("Цена за слово: ", pricePerWord);

@@ -1,3 +1,4 @@
+console.log("Task-4");
 const formatString = function (string) {
   console.log('Строка оригинальная: ',string);
   if (string.length > 40) {

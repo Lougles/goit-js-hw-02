@@ -1,3 +1,4 @@
+console.log("Task-3");
 const findLongestWord = function (string) {
   console.log("Строка: ",string);
   const words = string.split(" ");

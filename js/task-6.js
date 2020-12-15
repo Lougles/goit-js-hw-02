@@ -1,9 +1,10 @@
+console.log("Task-6");
 let input;
 const numbers = [];
 let total = 0;
 
 while (true) { 
-  input = prompt("Введите числа");
+  input = prompt("Task-6. Введите числа для подсчета и добавления в массив: ");
 
   if (!input) {
     break;
