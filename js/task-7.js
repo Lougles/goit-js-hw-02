@@ -1,4 +1,4 @@
-console.log("Task-7. Soon");
+console.log("Task-7");
 const logins = ['Mango', 'robotGoogles', 'Poly', 'Aj4x1sBozz', 'qwerty123'];
 console.log("Список логинов: ",logins);
 const isLoginValid = function (login) {
